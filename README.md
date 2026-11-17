@@ -4,7 +4,7 @@ Hi! Lighter 版的創作 app（建構於 Onset）：Mac、iPhone 和 iPad。
 
 ## 下載
 
-到 [Releases](../../releases/latest) 下載 `HiLighter-3.0.0.dmg`。
+到 [Releases](../../releases/latest) 下載最新版的 `HiLighter-x.x.x.dmg`。
 
 DMG 有密碼保護，打開時要輸入密碼。密碼請向給你這個連結的人索取。
 
